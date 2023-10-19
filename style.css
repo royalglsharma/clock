@@ -61,7 +61,7 @@ align-items: center;
 .hand i{
     position: absolute;
     background-color:var(--clr);
-    width: 4px;
-    height: 70px;
+    width: var(--width);
+    height: var(--height);
     border-radius: 8px;
 }
