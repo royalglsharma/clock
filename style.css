@@ -63,5 +63,5 @@ align-items: center;
     background-color:var(--clr);
     width: var(--width);
     height: var(--height);
-    border-radius: 8px;
+    border-radius: 12px;
 }
